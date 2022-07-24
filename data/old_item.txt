@@ -1,0 +1,18 @@
+Format = "Provider", "id", "Nama Barang", ""Masa Aktif", "Harga Jual", "Harga Beli", "Stok", "Default Stok", "Waktu"
+Telkomsel, 1, Telkomsel 1.5 gb, 3 Hari, 10000, 6915, 7, 0, 2022-07-22 08:00:51.291713
+Telkomsel, 2, Telkomsel 2.5 gb, 5 Hari, 13000, 10383, 4, 0, 2022-07-22 08:00:51.291713
+Telkomsel, 3, Telkomsel 3.5 gb, 7 Hari, 22000, 17988, 5, 0, 2022-07-22 08:00:51.291713
+Telkomsel, 4, Telkomsel 4 gb, 30 Hari, 35000, 31620, 0, 0, 2022-07-22 08:00:51.291713
+Smartfren, 5, Smartfren Voucher data 2.5 gb, 3 Hari, 7000, 5075, 2, 0, 2022-07-22 08:00:51.291713
+Smartfren, 6, Smartfren Voucher Data 2 gb, 7 Hari, 10000, 7600, 2, 0, 2022-07-22 08:00:51.291713
+Smartfren, 7, Smartfren Voucher data 4 gb, 7 Hari, 12000, 10000, 0, 0, 2022-07-22 08:00:51.291713
+Smartfren, 8, Smartfren 9 gb, 30 Hari, 18000, 14895, 1, 0, 2022-07-22 08:00:51.291713
+XL, 9, XL HOTROD 2 gb, 7 Hari, 12000, 10000, 6, 0, 2022-07-22 08:00:51.291713
+Axis, 10, Axis Mini Aigo 1 gb, 5 Hari, 10000, 8660, 5, 0, 2022-07-22 08:00:51.291713
+Three, 11, Three AON 1 gb, 365 Hari, 17000, 14090, 0, 0, 2022-07-22 08:00:51.291713
+Three, 12, Three AON 2 gb, 365 Hari, 22000, 18800, 1, 0, 2022-07-22 08:00:51.291713
+Three, 13, Three Happy 1 gb, 3 Hari, 8000, 5635, 0, 0, 2022-07-22 08:00:51.291713
+Three, 14, Three Happy 3 gb, 3 Hari, 12000, 8815, 2, 0, 2022-07-22 08:00:51.291713
+Three, 15, Three Happy 3.5 gb, 5 Hari, 15000, 12200, 3, 0, 2022-07-22 08:00:51.291713
+Three, 16, Three Happy 6 gb, 5 Hari, 20000, 16090, 0, 0, 2022-07-22 08:00:51.291713
+Three, 17, Three Mini 1 gb, 5 Hari, 10000, 8660, 1, 0, 2022-07-22 08:00:51.291713
